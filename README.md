@@ -1,4 +1,3 @@
 # exerciciosBasicos-2023.1
-Lista de exercícios feitos no primeiro semestre da faculdade de ADS
-Foram feitos em Java. 
-Mostram minha jornada em aprender lógica de programação. 
+Lista de exercícios do primeiro semestre da faculdade de ADS. 
+Todos foram feitos em Java e mostram minha jornada em aprender lógica de programação. 
